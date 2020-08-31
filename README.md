@@ -2,7 +2,7 @@
 
 - This is a demo project of data analysis of a daily record of the top trending YouTube videos using Pandas module in Python
 
-hr
+<hr>
 
 ### About dataset
 - YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes). Note that they’re not the most-viewed videos overall for the calendar year”. Top performers on the YouTube trending list are music videos (such as the famously virile “Gangam Style”), celebrity andor reality TV performances, and the random dude-with-a-camera viral videos that YouTube is well-known for.
@@ -43,7 +43,7 @@ hr
   - Adding new columns which are shown above in dataset explanations.
   - and so on.
   
-hr
+<hr>
 
 ### Source
  - Dataset is taken from Kaggle.com
