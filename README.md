@@ -31,7 +31,7 @@ hr
     - The number of tags in each video (tag_count),
     - The ratio of likes to overall reactions and sorting it in descending order. This one is developed by 2 methods (likes_dislikes_ratio_method1 and 2)
  
-hr
+<hr>
 
 ### About code
 - The code basically does the premature analysis on the given dataset, such as
